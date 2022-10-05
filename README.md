@@ -26,7 +26,7 @@ The idea is to use [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s
 
 ## Developing on the bonus part
 
-We try to simulate for various values of $n$. We know that at some point the system will crash due to high memory usage. We give a theoritical upper bound for it in the notebook. The largest list that worked for us is for $n=11$ i.e. the size of list is $2^{12}-1$.
+We try to simulate for various values of $n$. We know that at some point the system will crash due to high memory usage. We give a theoritical upper bound for it in the notebook. The largest list that worked for us is for $n=11$ i.e. the size of list is $2^{11}-1$.
 
 ## Structure of repository
 
